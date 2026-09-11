@@ -1,2 +1,2 @@
 # rearc-data-quest
-Solution to a programming challenge
+This readme is a Solution to a programming challenge. For following the thought process , please lookup the process.md file.
